@@ -9,6 +9,36 @@ hexadecimal real donde vive la variable.
 
 - Estudiante: **Alexis Maier**
 
+## Datos institucionales
+
+- **Institución:** E.E.S.T. N.º 1 «Eduardo Ader» — Vicente López
+- **Curso:** 5.º 3.ª A-B
+- **Materia:** Laboratorio de Programación (LPR)
+- **Profesor:** Prof. York
+- **Actividad:** 4 — Manipulación de cadenas y punteros en C/C++
+
+## Presentación de la Actividad
+
+Control de acceso por edad que opera directamente sobre la RAM mediante el puntero int* p = &edad, los operadores & y * y direcciones hexadecimales.
+
+## Integrantes y roles
+
+| Integrante | Rol / tarea asignada | Aporte individual |
+|---|---|---|
+| Alexis Maier | Mapeo de direcciones, desreferenciación, cuestionario de memoria e informe | [cadenas-punteros](https://github.com/alitomaier2010-netizen/cadenas-punteros) |
+
+## Requisitos e instalación
+
+1. **Git** instalado para clonar el repositorio.
+2. **Editor de código** (VS Code con extensiones de C/C++, o Visual Studio Community).
+3. **Compilador g++** (MinGW-w64 / MSYS2) agregado al `PATH` del sistema.
+4. Clonar y situarse en el directorio:
+
+```bash
+git clone https://github.com/alitomaier2010-netizen/cadenas-punteros.git
+cd cadenas-punteros
+```
+
 ## Estructura
 
 ```
